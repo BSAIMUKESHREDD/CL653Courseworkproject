@@ -1,0 +1,2 @@
+Jupiter notebook file: CL653Courseworkproject/smokedetection.ipynb at main · BSAIMUKESHREDD/CL653Courseworkproject · GitHub
+Url for dataset: CL653Courseworkproject/smoke_detection_iot.csv.zip at main · BSAIMUKESHREDD/CL653Courseworkproject · GitHub
